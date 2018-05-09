@@ -1,0 +1,5 @@
+---
+applications:
+ - name: "[Santander] Node Orchestrator"
+   host: santander-orchestrator
+   memory: 128M
